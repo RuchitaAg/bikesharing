@@ -1,7 +1,7 @@
 # Bikesharing Analysis
 
 ## Overview
-The purpose of this project was to create a proposal for bringing bike rentals to Des Moines, lowa using Tableau.
+The purpose of this project was to create a proposal for bringing bike rentals to Des Moines using Tableau.
 
 
 ## Objective 
